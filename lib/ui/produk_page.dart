@@ -14,7 +14,7 @@ class _ProdukPageState extends State<ProdukPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('List Produk Malka'),
+        title: const Text('List Produk Bagus'),
         actions: [
           Padding(
             padding: const EdgeInsets.only(right: 20.0),
